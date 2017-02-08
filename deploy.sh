@@ -3,5 +3,5 @@
 set -e
 
 hugo
-rsync -avzc public/* marcusbooyah@marcusbowyer.co.uk:/home/marcusbooyah/public_html
+rsync -avzc --delete public/* marcusbooyah@marcusbowyer.co.uk:/home/marcusbooyah/public_html/marcusbowyer
 rm -rf public
