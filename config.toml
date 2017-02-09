@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://marcusbowyer.co.uk" #without ending slash
+baseurl = "http://www.marcusbowyer.co.uk" #without ending slash
 languageCode = "en-us"
 theme = "identity"
 title = "Marcus Bowyer"
